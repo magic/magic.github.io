@@ -1,0 +1,65 @@
+{
+  "name": "magic.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "t -p",
+    "build": "NODE_ENV=production magic build",
+    "prod": "NODE_ENV=production magic build serve --watch src",
+    "clean": "magic clean",
+    "serve": "magic serve --watch src",
+    "dev": "magic dev --watch src",
+    "format": "f -w --exclude docs",
+    "test": "t --exclude docs example config.js",
+    "calls": "calls"
+  },
+  "devDependencies": {
+    "@magic-modules/client-list": "github:magic-modules/client-list",
+    "@magic-modules/gitbadges": "github:magic-modules/gitbadges",
+    "@magic-modules/module-list": "github:magic-modules/module-list",
+    "@magic-modules/theme-list": "github:magic-modules/theme-list",
+    "@magic-themes/docs": "github:magic-themes/docs",
+    "@magic/core": "github:magic/core",
+    "@magic/test": "0.0.12"
+  },
+  "author": "Wizards & Witches",
+  "description": "@magic org github page. generate static pages and serverless lambdas. ~5kb client boilerplate.",
+  "keywords": [
+    "magic",
+    "static",
+    "serverless",
+    "page",
+    "generator"
+  ],
+  "license": "AGPL-3.0",
+  "contributors": [
+    {
+      "name": "jascha ehrenreich",
+      "github": "jaeh"
+    },
+    {
+      "name": "philipp tiefenbacher",
+      "github": "wizard23"
+    },
+    {
+      "name": "phileas lebada",
+      "github": "norpol"
+    },
+    {
+      "name": "litto",
+      "github": "mslitto"
+    },
+    {
+      "name": "daniel safar",
+      "github": "n1c3"
+    },
+    {
+      "name": "jay vaughan",
+      "github": "seclorum"
+    },
+    {
+      "name": "alexander weiss",
+      "github": "ylem235"
+    }
+  ]
+}
