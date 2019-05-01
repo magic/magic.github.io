@@ -1,5 +1,7 @@
 module.exports = {
   state: {
+    title: '@magic',
+    description: '@magic web framework.',
     logotext: '@magic',
     logo: '/logo.png',
     menu: [
