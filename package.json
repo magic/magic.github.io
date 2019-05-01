@@ -11,7 +11,9 @@
     "dev": "magic dev --watch src",
     "format": "f -w --exclude docs",
     "test": "t --exclude docs example config.js",
-    "calls": "calls"
+    "calls": "calls",
+    "connect": "magic connect",
+    "publish": "magic publish"
   },
   "devDependencies": {
     "@magic-modules/client-list": "github:magic-modules/client-list",
