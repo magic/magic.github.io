@@ -2,6 +2,7 @@
   "name": "magic.github.io",
   "version": "1.0.0",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "start": "t -p",
     "build": "NODE_ENV=production magic build",
