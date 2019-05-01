@@ -11,10 +11,7 @@ module.exports = () => [
   }),
 
   h2({ id: 'magic-modules' }, Link({ to: 'https://github.com/magic-modules/' }, '@magic-modules')),
-  p([
-    'the building blocks of @magic are modules that provide components.',
-    ' @magic understands html5, css3 and ecmascript 6.',
-  ]),
+  p('the building blocks of @magic are modules that provide components.'),
   ModuleList,
 
   h2({ id: 'magic-themes' }, Link({ to: 'https://github.com/magic-modules/' }, '@magic-themes')),
