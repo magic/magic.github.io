@@ -5,9 +5,9 @@ module.exports = {
     logotext: '@magic',
     logo: '/logo.png',
     menu: [
-      { to: '/#magic-modules', text: 'magic-modules' },
-      { to: '/#magic-themes', text: 'magic-themes' },
-      { to: '/#magic-libraries', text: 'magic-libraries' },
+      { to: '/#magic-modules-list', text: 'magic-modules' },
+      { to: '/#magic-themes-list', text: 'magic-themes' },
+      { to: '/#magic-libraries-list', text: 'magic-libraries' },
     ],
   },
 }
