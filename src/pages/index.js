@@ -5,10 +5,7 @@ module.exports = () => [
     'goal of the project is to keep the client boilerplate footprint minimal yet easily extendable',
   ),
 
-  h2('git badges'),
   GitBadges('magic/core'),
-
-  h3('plugins'),
 
   ModuleList,
 
