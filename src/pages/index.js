@@ -6,10 +6,7 @@ module.exports = () => [
   ),
 
   h2('git badges'),
-  GitBadges({
-    project: 'magic/core',
-    appveyor: 'jaeh/core',
-  }),
+  GitBadges('magic/core'),
 
   h3('plugins'),
 
