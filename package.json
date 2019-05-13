@@ -23,7 +23,7 @@
     "@magic-modules/theme-list": "github:magic-modules/theme-list",
     "@magic-themes/docs": "github:magic-themes/docs",
     "@magic/core": "github:magic/core",
-    "@magic/test": "0.0.12"
+    "@magic/test": "0.1.0"
   },
   "author": "Wizards & Witches",
   "description": "@magic org github page. generate static pages and serverless lambdas. ~5kb client boilerplate.",
