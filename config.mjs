@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   ROOT: 'src',
   GIT: {
     ORIGIN: 'origin',
@@ -6,4 +6,6 @@ module.exports = {
   },
   PUBLIC: 'docs',
   THEME: 'docs',
+
+  WEB_ROOT: '/',
 }

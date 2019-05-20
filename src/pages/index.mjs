@@ -1,4 +1,4 @@
-module.exports = () => [
+export const View = () => [
   h1('@magic'),
   p('magic is a module/component based generator for static pages and serverless deployments.'),
   p(
@@ -7,9 +7,9 @@ module.exports = () => [
 
   GitBadges('magic/core'),
 
-  ModuleList,
+  ModuleList(),
 
-  ThemeList,
+  ThemeList(),
 
-  LibraryList,
+  LibraryList(),
 ]
