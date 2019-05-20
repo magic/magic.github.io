@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
+  "author": "Wizards & Witches",
+  "description": "@magic org github page. generate static pages and serverless lambdas. ~5kb client boilerplate.",
+  "license": "AGPL-3.0",
+  "homepage": "https://magic.github.io",
+  "engines": {
+    "node": ">=12.2.0"
+  },
   "scripts": {
     "start": "t -p",
     "build": "NODE_ENV=production magic build",
@@ -25,8 +32,6 @@
     "@magic/core": "github:magic/core",
     "@magic/test": "0.0.12"
   },
-  "author": "Wizards & Witches",
-  "description": "@magic org github page. generate static pages and serverless lambdas. ~5kb client boilerplate.",
   "keywords": [
     "magic",
     "static",
@@ -34,7 +39,6 @@
     "page",
     "generator"
   ],
-  "license": "AGPL-3.0",
   "contributors": [
     {
       "name": "jascha ehrenreich",
