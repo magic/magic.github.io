@@ -8,4 +8,5 @@ export default {
   THEME: 'docs',
 
   WEB_ROOT: '/',
+  URL: 'magic.github.io',
 }
