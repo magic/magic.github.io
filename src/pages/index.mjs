@@ -1,4 +1,4 @@
-export const View = () => [
+export const View = state => [
   h1([Link({ to: '/' }, '@magic')]),
   p('magic is a module/component based generator for static pages and serverless deployments.'),
   p(
@@ -12,4 +12,6 @@ export const View = () => [
   ThemeList(),
 
   LibraryList(),
+
+  LightSwitch(state),
 ]
