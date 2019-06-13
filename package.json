@@ -1,6 +1,6 @@
 {
   "name": "magic.github.io",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "Wizards & Witches",
   "description": "@magic org github page. generate static pages and serverless lambdas. ~5kb client boilerplate.",
