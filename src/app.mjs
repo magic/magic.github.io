@@ -4,8 +4,38 @@ export const state = {
   logotext: '@magic',
   logo: '/logo.png',
   menu: [
-    { to: '/#gl-magic-modules', text: 'magic-modules' },
-    { to: '/#gl-magic-themes', text: 'magic-themes' },
-    { to: '/#gl-magic-libraries', text: 'magic-libraries' },
+    { to: '/', text: 'about @magic' },
+    {
+      to: '/magic-modules/',
+      text: 'magic-modules',
+      items: [
+        { to: '#gl-magic-modules-li-accordion', text: 'accordion' },
+        { to: '#gl-magic-modules-li-hero', text: 'hero' },
+        { to: '#gl-magic-modules-li-language-switch', text: 'language-switch' },
+        { to: '#gl-magic-modules-li-video-embed', text: 'video-embed' },
+        { to: '#gl-magic-modules-li-sound-cloud', text: 'sound-cloud' },
+        { to: '#gl-magic-modules-li-pre', text: 'pre' },
+        { to: '#gl-magic-modules-li-git-badges', text: 'git-badges' },
+        { to: '#gl-magic-modules-li-git-list', text: 'git-list' },
+        { to: '#gl-magic-modules-li-module-list', text: 'module-list' },
+        { to: '#gl-magic-modules-li-theme-list', text: 'theme-list' },
+        { to: '#gl-magic-modules-li-library-list', text: 'library-list' },
+      ],
+    },
+    {
+      to: '/magic-themes/',
+      text: 'magic-themes',
+      items: [{ to: '#gl-magic-themes-li-docs', text: 'docs' }],
+    },
+    {
+      to: '/magic-libraries/',
+      text: 'magic-libraries',
+      items: [
+        { to: '#gl-magic-libraries-li-gql', text: 'gql' },
+        { to: '#gl-magic-libraries-li-is', text: 'is' },
+        { to: '#gl-magic-libraries-li-json', text: 'json' },
+        { to: '#gl-magic-libraries-li-uri', text: 'uri' },
+      ],
+    },
   ],
 }
