@@ -9,4 +9,6 @@ export default {
 
   WEB_ROOT: '/',
   URL: 'magic.github.io',
+
+  HOIST: 'Gdpr',
 }
