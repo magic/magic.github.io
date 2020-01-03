@@ -1,1 +1,1 @@
-export const View = state => [LibraryList(), LightSwitch(state)]
+export const View = state => LibraryList()
