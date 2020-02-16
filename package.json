@@ -30,7 +30,7 @@
     "@magic-modules/module-list": "0.0.7",
     "@magic-modules/theme-list": "0.0.4",
     "@magic-themes/docs": "0.0.5",
-    "@magic/core": "0.0.27"
+    "@magic/core": "0.0.28"
   },
   "devDependencies": {
     "@magic/test": "0.1.35"
