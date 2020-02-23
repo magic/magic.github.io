@@ -69,8 +69,8 @@ git remote add origin git@github.com/yourName/repository
     Pre('npm install -g @magic/core'),
 
     p('now, `magic` is available in your bash.'),
-    p('execute magic to get a help overview:'),
-    Pre('magic'),
+    p('execute the magic help task to get a help overview:'),
+    Pre('magic --help'),
 
     h4('config.mjs'),
     p('lets create /config.mjs, the file that tells @magic what to do.'),
@@ -82,7 +82,7 @@ export default {
     `),
 
     h4('src'),
-    p('in the config file we told magic, that our page lives in the src directory.'),
+    p('in the config file we configured our page to live in the src directory.'),
     p('create the src directory now'),
     Pre('mkdir ./src'),
 
