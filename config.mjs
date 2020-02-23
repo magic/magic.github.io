@@ -5,7 +5,7 @@ export default {
     BRANCH: 'master',
   },
   PUBLIC: 'docs',
-  THEME: 'docs',
+  THEME: 'project',
 
   WEB_ROOT: '/',
   URL: 'magic.github.io',
