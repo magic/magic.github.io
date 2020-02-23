@@ -12,7 +12,7 @@ export const View = state => [
     p([
       '@magic has one client side dependency (spanning about 500 lines of code), ',
       Link({ to: 'https://github.com/jorgebucaran' }, 'jorge bucaran'),
-      "'s excellent",
+      "'s excellent ",
       Link({ to: 'https://hyperapp.dev' }, 'hyperapp'),
       ' library, which provides the foundational state machine that @magic is built upon.',
     ]),
