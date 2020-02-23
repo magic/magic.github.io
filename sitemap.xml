@@ -7,35 +7,56 @@
 
 <url>
   <loc>https://magic.github.io/</loc>
-  <lastmod>2020-02-14</lastmod>
+  <lastmod>2020-02-23</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 <url>
   <loc>https://magic.github.io/404/</loc>
-  <lastmod>2020-02-14</lastmod>
+  <lastmod>2020-02-23</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 <url>
-  <loc>https://magic.github.io/magic-libraries/</loc>
-  <lastmod>2020-02-14</lastmod>
+  <loc>https://magic.github.io/canary/</loc>
+  <lastmod>2020-02-23</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 <url>
-  <loc>https://magic.github.io/magic-modules/</loc>
-  <lastmod>2020-02-14</lastmod>
+  <loc>https://magic.github.io/getting-started/</loc>
+  <lastmod>2020-02-23</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 <url>
-  <loc>https://magic.github.io/magic-themes/</loc>
-  <lastmod>2020-02-14</lastmod>
+  <loc>https://magic.github.io/libraries/</loc>
+  <lastmod>2020-02-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://magic.github.io/modules/</loc>
+  <lastmod>2020-02-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://magic.github.io/privacy/</loc>
+  <lastmod>2020-02-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://magic.github.io/themes/</loc>
+  <lastmod>2020-02-23</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
