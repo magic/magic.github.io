@@ -31,7 +31,7 @@
     "@magic-modules/pre": "0.0.2",
     "@magic-modules/theme-list": "0.0.5",
     "@magic-themes/project": "0.0.3",
-    "@magic/core": "0.0.36"
+    "@magic/core": "0.0.37"
   },
   "devDependencies": {
     "@magic/format": "0.0.7",
