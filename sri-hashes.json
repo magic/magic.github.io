@@ -1,20 +1,20 @@
 {
-  "css": "sha384-BWAEMCgZ6F6fZSz+hQ1oUlUBGjL3T0owBkJpX61yFfawhnclPDanrRAvSmu3MV4p",
-  "js": "sha384-kpB+bnPDo3jUJ9GpD5PR1q+cuaptKJDDdArzyapZpNamVG4qEk/8gy+KuoeBsyYS",
+  "css": "sha384-yglnLFgNIi69erly/qhJQzI2xzdfXF/BWxW8aPoTAq+FL2rAmbGmMs7AJ1TrCb+K",
+  "js": "sha384-RJetD/raHwhDDU31onAC1g8UQyLEPa9YOnAvHdPZnG7uDMzfc+TvvKmo4z0iXqXQ",
   "pages": {
-    "/": "sha384-GnoE5jXOuJqFGCS+C2Az85HzMh2zOz34049dXN22DaRQEtAfwf9uxJ4VFYhCQzxk",
-    "/404/": "sha384-AWxOU467aWxUJyH8EIFvyEyeuyxfLwbtRuWuLVYZxoxIAZlYwC/qfgsLBsevJThm",
-    "/canary/": "sha384-GbDL4iD6vXrYHfkgaK3I39Mk1TdLzgxKJJr3+nA+yHGAwV/QQVM1OYlWBeI8dWpP",
-    "/getting-started/": "sha384-wG6aH1QxFcEFgivsOfjn62xUwWj8VurMWP3O0FZhzuax/CQzB2xYj7XezDbXDSKB",
-    "/libraries/": "sha384-GXKWoWxjADXXiR4qfJgDNtFAv3lTgVI+rbvarYejWNyvelliUrwcR8g19dA7+5ox",
-    "/modules/": "sha384-2uYDHWhkMAZhOzMtXyEt3kI7iz369/D617YcAgD8MkVECdN3744XBWq/uXRgbBgD",
-    "/privacy/": "sha384-7cijQrTAKUc+/Y9oOAizlPef2ZDTEGwDTBa0RtWl//7KM4wNrwVGywytu/ryY0Ay",
-    "/themes/": "sha384-PB7+bDG4pfdkgg/wngRzpy/P/5s5GusvsLjasCI0x/3kXb0Xeb8J9AiM2viZ4uAm"
+    "/": "sha384-cnf0IxV/gys84tgh+OmqN0baO0PUPiW/G+ZayJhy1CSnsSfPypi9SxcvB6aIsEAr",
+    "/404/": "sha384-GZyJ5pDFfZFt3vMKRNvsrwGfWa2MVCtHni4tHE2k7eZdoMU0yYtQ1MYjLL3FHiNK",
+    "/canary/": "sha384-juWbEKRPKuKAp9holxA6JR4p/F9BMuKmO9ibTCKI453p7UOiLu1KJ150pd7ktkr6",
+    "/getting-started/": "sha384-QEGdFuzGCbPmeC9eRuGiWA41mcQnGqz/DL0F/Gj3+CK8y04VmoX7PvQopdvReOtY",
+    "/libraries/": "sha384-koOR1YMzan7SnFVUsHWns2CjHIhdNJrTdCL5WetrkVYSgoK6H39u8xdw3ixOvM5i",
+    "/modules/": "sha384-f5+m14SSjTlMiRoaKRlTQws1Juz9PggeRMXeX2QjjGfBUTSxUX6NV7NmcgBrcQGe",
+    "/privacy/": "sha384-WG512JMTlNJrnuNcu5YYu5BNT2Lidk6AmdADIG3/5B04Hu/l/WSfYgYIT9P1xl6m",
+    "/themes/": "sha384-0w1cccsUmc1DYb59oPZP9hCGIQcRKiZFmq7NqucH7GH2vEfXEEWUtGL9N4ahWzG4"
   },
   "static": {
     "/favicon.ico": "sha384-pf51ay6pZCj3+XlVCPmCKLDFpLj7QP+2heR+/n08WgS7Bve7JMkgubHOkwLzaTr+",
     "/logo.png": "sha384-yRxX8nlWNCvk7+PidWDtP1jLxTmtbHm7tCW6TszNfZ7R5DTDMmXyxhKC/JmX3r1u",
     "/robots.txt": "sha384-hz7pfxRM2lGi6/NsHB3jBZqd0O3HfyuMLLWL7qBMXm2oV4irwRnu8LwfNpbrn44M",
-    "/sitemap.xml": "sha384-Dlfgk1qvEA4ubTurwt0TnpS9NRcOjhHCiMYrf/r7R5mtMqqnbqvjDobpicOhLBXh"
+    "/sitemap.xml": "sha384-mDMBE/60W1JYS6tnBxgSbTi9xQE3EOX2JdjoWbzNV8vDDgxt9pb5tOHIqTjIAKnM"
   }
 }
