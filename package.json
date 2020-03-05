@@ -30,8 +30,8 @@
     "@magic-modules/module-list": "0.0.8",
     "@magic-modules/pre": "0.0.6",
     "@magic-modules/theme-list": "0.0.5",
-    "@magic-themes/project": "0.0.7",
-    "@magic/core": "0.0.55"
+    "@magic-themes/project": "0.0.9",
+    "@magic/core": "0.0.56"
   },
   "devDependencies": {
     "@magic/format": "0.0.7",
