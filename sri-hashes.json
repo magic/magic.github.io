@@ -1,17 +1,18 @@
 {
-  "css": "sha384-L4oritPNgYhc+7IXzsZXyIJMMcqXCuXCzrj3CIORqbia2kAD7HwWaoy6D3rsOAwe",
-  "js": "sha384-Ku4HUSFUEconYiFK4THDDg9XlyCglIK0QJ3tgQ6XlXium68DMI6bT1zp3QlQzs3d",
+  "css": "sha384-oc9YI9MoFxMyj2Tog9UGpk4ERLzXmD1uNlX6e41LAt3wk8vuzUUeKNQy0fx6OrLF",
+  "js": "sha384-4AuB7BzQJTK3tcYUduPEgt9crDtEjhwMg9+hsJM1lUhRNkph4xV7GagWY+5HsHBa",
   "pages": {
-    "/": "sha384-rqcZSgQ8CtBgx3cpbnvo1j9mlYfv2NdOh3zXTte+rOsNH5TKObJqlUKsu5gExrnN",
-    "/404/": "sha384-5bijSZ2rliRA4M7ySgM3CkThzBmedl2wyKg6K8dPZ+PmnVAJvCLdf4lxT2+wC7Cz",
-    "/canary/": "sha384-5EFpyjMOace5FKeq3x8vyAvvKsBkPd6T8IXZi5bgpa4OZpS8ZNFsNTwysBO+2wnt",
-    "/getting-started/": "sha384-HcIoYQ0JWOQqRewRplYkm7O6ME6x3o9q7wpzfE6iKFuW2OOTxL9jhyfG4Z0FSzlp",
-    "/privacy/": "sha384-igLUeeW5/6bWBS2lEtVobSgMvdLPtn1etI2PHuSy/Nw/EjjluNx2OPQ+cE1zAmnT"
+    "/": "sha384-cYXuMMu3Vy4obD6l9kS5CAN8udX0e/1mKMtKLaOSN73nV19nVT/RPxZYzFp2nsgt",
+    "/404/": "sha384-A52y8GC/SDjHVJhh/s0QxFhwwyjV0V1lx/kdIy9APMguQ7QaYmhL+kTW5ic2u0GX",
+    "/canary/": "sha384-jutO8e3rFb3eWySup9gdXKP4lzeYArBS+DnbtCnKfzXZ1LdErJFWPMOZEgv2Evdi",
+    "/getting-started/": "sha384-rNlQllJduxVDMuOp0Nv29SEfzW1hAcrK5ub57uUcYwls0lUvmL4sgYLU4RWENOaJ",
+    "/organizations/": "sha384-713hWlX0K5NHTsFiVsHBJugC6w/z+mExe72NQ0trwG5zIPLYMrIHbopsVq64HSTZ",
+    "/privacy/": "sha384-6GPBy8H3ICKiYIDt9wz699CVvKLXZz7rBHzRjaki47shy3fI15l8+0OwRrDwekhT",
+    "/why/": "sha384-CVng6G96OfIP/9a7nYwrOskkeoId81MJybbot7kYVRb0oCFyVqEt+HlQtSVBMJiD"
   },
   "static": {
-    "/favicon.ico": "sha384-pf51ay6pZCj3+XlVCPmCKLDFpLj7QP+2heR+/n08WgS7Bve7JMkgubHOkwLzaTr+",
-    "/logo.png": "sha384-yRxX8nlWNCvk7+PidWDtP1jLxTmtbHm7tCW6TszNfZ7R5DTDMmXyxhKC/JmX3r1u",
+    "/favicon.ico": "sha384-1R1jobwl33CzlNXvXlmwAN09ZyjqOL5JXK3wYUakQ15FRlEw+rJu7gPpSUUXkGBR",
     "/robots.txt": "sha384-hz7pfxRM2lGi6/NsHB3jBZqd0O3HfyuMLLWL7qBMXm2oV4irwRnu8LwfNpbrn44M",
-    "/sitemap.xml": "sha384-GmgT/ma5O8tTbOOmYQs8iGqSpFjbILG1FWzqVZ6C23ZQxqV4gyQBC0oAPrCbRrz7"
+    "/sitemap.xml": "sha384-CYwd40zLH2QSdzj4QBQ3wQ0aeks3IOhkVE0FtDu2+cDQSrgZstOW5Xbn3QXObYR0"
   }
 }
