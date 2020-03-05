@@ -5,7 +5,8 @@ export const state = {
 
   menu: [
     { to: '/', text: 'about' },
-    { to: '/getting-started/', text: 'getting started' },
+    { to: '/getting-started/', text: 'usage' },
+    { to: '/why/', text: 'why?' },
   ],
 
   hero: {
@@ -15,7 +16,7 @@ export const state = {
     menu: [
       { to: '/#about', text: 'about' },
       { to: '/getting-started/', text: 'usage' },
-      { to: '/#packages', text: 'packages' },
+      { to: '/organizations/', text: 'organizations' },
     ],
   },
 }
