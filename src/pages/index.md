@@ -16,7 +16,7 @@ which provides the foundational state machine that @magic is built upon.
 
 <GitBadges>magic/core</GitBadges>
 
-<h2 id='philosophy'>philosophy</h2>
+## philosophy
 
 @magic makes it easy to stitch any kind of webapp together.
 by providing simple, well documented, and self contained modules,
@@ -29,7 +29,7 @@ and even the server side functionality,
 all in one file and one logical context.
 
 
-<h2 id='privacy'>privacy</h2>
+## privacy
 
 @magic does not spy on it's users.
 in addition to being legally compliant to the european privacy laws,
@@ -42,7 +42,7 @@ we think that this is the only fair solution.
 
 [privacy policy](/privacy/)
 
-<h2 id='buzzwords'>why should i use magic?</h2>
+## #buzzwords why should i use magic?
 
 ### @magic is tiny
 
@@ -64,7 +64,6 @@ this makes free hosting (using github or gitlab pages) possible.
 and it's easy to
 [get started](/getting-started/).
 
-
 @magic publishes to
 [github](https://github.com)
 [gitlab](https://gitlab.com)
@@ -73,54 +72,54 @@ and any other git-pages enabled hosting service.
 ### serverless / faas
 
 automagically generate
- serverless lambdas, derived from the
+serverless lambdas, derived from the
 [@magic-modules](https://github.com/magic-modules/)
 you use in your pages.
 
 this makes visitor statistics, user authentication and authorization,
 chat, and all other server side services possible.
 
-<h2 id='packages'>packages</h2>
+## packages
 
 @magic is quite a big ecosystem already and spans 4 github organizations.
 
-<div class='Packages'>
+<div class="Packages">
 
-* ### [@magic core utilities](https://github.com/magic/)
+### [@magic core utilities](https://github.com/magic/)
 
-  the magic core utilities include
-  [a test framework](https://magic.github.io/test), a
-  [css-in-js](https://github.com/magic/css/) library,
-  markdown/html to @magic mjs [transmutations](https://github.com/magic/transmute/),
-  a javascript [prettifier](https://github.com/magic/format/),
-  many other [libraries](https://github.com/magic/),
-  that get used throughout the magic ecosystem, and, of course, the
-  [@magic/core](https://github.com/magic/core)
-  package.
+the magic core utilities include
+[a test framework](https://magic.github.io/test), a
+[css-in-js](https://github.com/magic/css/) library,
+markdown/html to @magic mjs [transmutations](https://github.com/magic/transmute/),
+a javascript [prettifier](https://github.com/magic/format/),
+many other [libraries](https://github.com/magic/),
+that get used throughout the magic ecosystem, and, of course, the
+[@magic/core](https://github.com/magic/core)
+package.
 
-* ### [@magic-modules](https://github.com/magic-modules/)
+### [@magic-modules](https://github.com/magic-modules/)
 
-  modules are the building blocks of your app.
-  since most of the pages built using @magic are documentation pages for @magic libraries,
-  a lot of the existing modules make it easier to document projects.
-  [Do you want to know more?](/modules/)
+modules are the building blocks of your app.
+since most of the pages built using @magic are documentation pages for @magic libraries,
+a lot of the existing modules make it easier to document projects.
+[Do you want to know more?](/modules/)
 
-* ### [@magic-themes](https://github.com/magic-themes/)
+### [@magic-themes](https://github.com/magic-themes/)
 
-  themes make pages look nice.
-  this page uses the prepared [project](https://magic-themes.github.io/project) theme.
+themes make pages look nice.
+this page uses the prepared [project](https://magic-themes.github.io/project) theme.
 
-  [Do you want to know more?](/themes/)
-
-
-* ### [@magic-libraries](https://github.com/magic-libraries)
-
-  @magic-libraries provide browser functionality.
-  they can handle [json](https://github.com/magic-libraries/json/),
-  provide a [database](https://github.com/magic-libraries/db),
-  convert [graphql](https://github.com/magic-libraries/graphql),
-  parse and serialize [uri](https://github.com/magic-libraries/uri)'s,
-  and [type check](https://github.com/magic-libraries/is)
+[Do you want to know more?](/themes/)
 
 
-  [Do you want to know more?](/libraries/)
+### [@magic-libraries](https://github.com/magic-libraries)
+
+@magic-libraries provide browser functionality.
+they can handle [json](https://github.com/magic-libraries/json/),
+provide a [database](https://github.com/magic-libraries/db),
+convert [graphql](https://github.com/magic-libraries/graphql),
+parse and serialize [uri](https://github.com/magic-libraries/uri)'s,
+and [type check](https://github.com/magic-libraries/is)
+
+
+[Do you want to know more?](/libraries/)
