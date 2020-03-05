@@ -34,28 +34,7 @@
 </url>
 
 <url>
-  <loc>https://magic.github.io/libraries/</loc>
-  <lastmod>2020-03-05</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
-</url>
-
-<url>
-  <loc>https://magic.github.io/modules/</loc>
-  <lastmod>2020-03-05</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
-</url>
-
-<url>
   <loc>https://magic.github.io/privacy/</loc>
-  <lastmod>2020-03-05</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
-</url>
-
-<url>
-  <loc>https://magic.github.io/themes/</loc>
   <lastmod>2020-03-05</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
