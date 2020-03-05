@@ -50,7 +50,7 @@ once the content has been created,
 the developer (or editor) creates a new bundle and pushes the changes to the page.
 
 this allows every team member to spend time with the things they are good at,
-separating respons**A**bility into a natural hierarchy of competency.
+mapping individual respons**A**bilities to a natural hierarchy of competency.
 
 ## privacy
 
