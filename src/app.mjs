@@ -10,8 +10,8 @@ export const state = {
 
   hero: {
     title: '@magic',
-    description: 'generator',
-    content: 'automagically generates static pages and their apis.',
+    description: 'jamstack generator',
+    content: 'automagically generate and publish "jsomorphic" webapps.',
     menu: [
       { to: '/#about', text: 'about' },
       { to: '/getting-started/', text: 'usage' },
