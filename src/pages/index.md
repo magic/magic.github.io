@@ -31,7 +31,7 @@ by providing simple, well documented, and self contained modules,
 
 ## audience
 
-@magic will work in any team that has one or more developer / content creators / editors.
+@magic will work in any team that has one or more developers / content creators / editors.
 
 it is intended for organizational structures focused around small teams
 working in [programmer anarchy](https://www.youtube.com/watch?v=tIxHmsWCd7g),
@@ -64,95 +64,3 @@ but at the same time this means that we place the rights of your users above you
 we think that this is the only fair solution.
 
 [privacy policy](/privacy/)
-
-## #buzzwords why should i use magic?
-
-### @magic is tiny
-
-usually, all the javascript in your homepage will be 30-60 kb big (after unpacking),
-10-30 kb get transmitted from the server to the client.
-
-this complete page you are reading with all sub pages loads about 40kb of unpacked,
-15kb of gzipped javascript.
-
-### @magic works without javascript
-
-most of the functionality works without javascript,
-some buttons and realtime user interactions obviously won't,
-but @magic always provides a non-javascript fallback that gets enhanced by js if possible.
-
-### @magic generates static pages
-
-this makes free hosting (using github or gitlab pages) possible.
-and it's easy to
-[get started](/getting-started/).
-
-## free hosting
-
-@magic publishes to
-[github](https://github.com)
-[gitlab](https://gitlab.com)
-and any other git-pages enabled hosting service.
-
-### serverless / faas
-
-automagically generate
-serverless lambdas, derived from the
-[@magic-modules](https://github.com/magic-modules/)
-you use in your pages.
-
-this makes contact forms, visitor statistics, user authentication and authorization,
-chat, and all other server side services possible.
-
-## packages
-
-@magic is quite a big ecosystem already and spans 5 github organizations.
-
-<div class="Packages">
-
-### [@magic core utilities](https://github.com/magic/)
-
-the magic core utilities include
-[a test framework](https://magic.github.io/test), a
-[css-in-js](https://github.com/magic/css/) library,
-markdown/html to @magic mjs [transmutations](https://github.com/magic/transmute/),
-a javascript [prettifier](https://github.com/magic/format/),
-many other [libraries](https://github.com/magic/),
-that get used throughout the magic ecosystem, and, of course, the
-[@magic/core](https://github.com/magic/core)
-package.
-
-### [@magic-examples](https://github.com/magic-examples/)
-
-example pages to help getting started with new @magic projects.
-
-[Do you want to know more?](https://magic-examples.github.io/)
-
-### [@magic-modules](https://github.com/magic-modules/)
-
-modules are the building blocks of your app.
-
-since most of the pages built using @magic are documentation pages for @magic libraries,
-a lot of the existing modules make it easier to document projects.
-
-[Do you want to know more?](https://magic-modules.github.io/)
-
-### [@magic-themes](https://github.com/magic-themes/)
-
-themes make pages look nice.
-
-this page uses the prepared [project](https://magic-themes.github.io/project) theme.
-
-[Do you want to know more?](https://magic-themes.github.io/)
-
-
-### [@magic-libraries](https://github.com/magic-libraries)
-
-@magic-libraries provide browser functionality.
-they can handle [json](https://github.com/magic-libraries/json/),
-provide a [database](https://github.com/magic-libraries/db),
-convert [graphql](https://github.com/magic-libraries/graphql),
-parse and serialize [uri](https://github.com/magic-libraries/uri)'s,
-and [type check](https://github.com/magic-libraries/is)
-
-[Do you want to know more?](https://magic-libraries.github.io/)
