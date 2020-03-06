@@ -9,47 +9,44 @@ to start your page, simply clone one of the example directories:
 
 this is a minimal example for purists that want to start from (almost) scratch
 
+* [github](https://github.com/magic-examples/minimal/)
+* [demo](https://magic-examples.github.io/minimal/)
+
 ```
-git clone https://github.com/magic-examples/minimal
-cd minimal
+git clone https://github.com/magic-examples/minimal ./yourAwesomeDomain.tld
+cd ./yourAwesomeDomain.tld
 npm install
 npm run dev
 // goto http://localhost:2323
 ```
-
-[minimal github](https://github.com/magic-examples/minimal)
 
 ### interactive
 
 a small example showing off some client side interactions.
 
+* [github](https://github.com/magic-examples/example/)
+* [demo](https://magic-examples.github.io/example/)
+
 ```
-git clone https://github.com/magic-examples/example
-cd example
+git clone https://github.com/magic-examples/example ./yourAwesomeDomain.tld
+cd ./yourAwesomeDomain.tld
 npm install
 npm run dev
 // goto http://localhost:2323
 ```
 
-[example github](https://github.com/magic-examples/example)
-
-### WIP - fancy
-
-a "fancy" page that does not look too nice, yet.
-
-```
-git clone https://github.com/magic/example-fancy
-cd example-fancy
-npm install
-npm run dev
-// goto http://localhost:2323
-```
-
-[fancy github](https://github.com/magic-examples/fancy)
-
-### WIP - project
+### project
 
 using [@magic-themes/project](https://github.com/magic-themes/project),
 a good starter template for any project or company representation page.
 
-[project page github](https://github.com/magic/example-project-page)
+* [github](https://github.com/magic-examples/project)
+* [demo](https://magic-examples.github.io/project/)
+
+```
+git clone https://github.com/magic-examples/project ./yourAwesomeDomain.tld
+cd ./yourAwesomeDomain.tld
+npm install
+npm run dev
+// goto http://localhost:2323
+```
