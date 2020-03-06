@@ -1,18 +1,18 @@
 {
-  "css": "sha384-oc9YI9MoFxMyj2Tog9UGpk4ERLzXmD1uNlX6e41LAt3wk8vuzUUeKNQy0fx6OrLF",
-  "js": "sha384-4AuB7BzQJTK3tcYUduPEgt9crDtEjhwMg9+hsJM1lUhRNkph4xV7GagWY+5HsHBa",
+  "css": "sha384-WOgf39LXujf4RRvPw1ahgBgxa5OGB8/I9i+ARt+vP7oZikqzm3nANO+gL2XS0A5X",
+  "js": "sha384-D2LfKv4AQGCGMXsvdbK/G7ciKLqSdlSGoni2SnMRNSPgQiLvRnPCbsrik34WY0vx",
   "pages": {
-    "/": "sha384-cYXuMMu3Vy4obD6l9kS5CAN8udX0e/1mKMtKLaOSN73nV19nVT/RPxZYzFp2nsgt",
-    "/404/": "sha384-A52y8GC/SDjHVJhh/s0QxFhwwyjV0V1lx/kdIy9APMguQ7QaYmhL+kTW5ic2u0GX",
-    "/canary/": "sha384-jutO8e3rFb3eWySup9gdXKP4lzeYArBS+DnbtCnKfzXZ1LdErJFWPMOZEgv2Evdi",
-    "/getting-started/": "sha384-rNlQllJduxVDMuOp0Nv29SEfzW1hAcrK5ub57uUcYwls0lUvmL4sgYLU4RWENOaJ",
-    "/organizations/": "sha384-713hWlX0K5NHTsFiVsHBJugC6w/z+mExe72NQ0trwG5zIPLYMrIHbopsVq64HSTZ",
-    "/privacy/": "sha384-6GPBy8H3ICKiYIDt9wz699CVvKLXZz7rBHzRjaki47shy3fI15l8+0OwRrDwekhT",
-    "/why/": "sha384-CVng6G96OfIP/9a7nYwrOskkeoId81MJybbot7kYVRb0oCFyVqEt+HlQtSVBMJiD"
+    "/": "sha384-Cc/cSjp22+UJM0XKM1vOiLU8f7agnUHbhiGKHFgSc24s0mBHWKcp1aLNmAhMUyWN",
+    "/404/": "sha384-rbay90Om4I3/JW4j354NgI+xs76XxSz16VOzH4o8K5iNn1xAyJf9kistIvqbJVKQ",
+    "/canary/": "sha384-4OE/Qq02pkRzgyI0uBLuUULrC9E4FOYpIPM1qQQi+dkVjPWKWpwGZcJ0QvbU5uyE",
+    "/getting-started/": "sha384-GHNjyJDoJUivOn2aTzvCUYsQg0yrJmSg4IDqea40T000h0fTGKTZuSsGRZq1AEEl",
+    "/organizations/": "sha384-4YueF7yKgvZJ2sckMIHCNWkUsO9D13g2U6cIXzt6cTvv5J2A3r/brrAB8RjjIQTJ",
+    "/privacy/": "sha384-ZHfUjSdykOZSxtenMqxDqj4pGj6wgZp+6Qs/CGx8EP9Xkvz+p2Qyk5StrTvxfaha",
+    "/why/": "sha384-6x/z2ts5OUxY5M8SBkj86Tf9MaU8d9fTGoMY0nJOSAkyclmc9WB0WpB72xDZdUHS"
   },
   "static": {
     "/favicon.ico": "sha384-1R1jobwl33CzlNXvXlmwAN09ZyjqOL5JXK3wYUakQ15FRlEw+rJu7gPpSUUXkGBR",
     "/robots.txt": "sha384-hz7pfxRM2lGi6/NsHB3jBZqd0O3HfyuMLLWL7qBMXm2oV4irwRnu8LwfNpbrn44M",
-    "/sitemap.xml": "sha384-CYwd40zLH2QSdzj4QBQ3wQ0aeks3IOhkVE0FtDu2+cDQSrgZstOW5Xbn3QXObYR0"
+    "/sitemap.xml": "sha384-UBBDTi54Jd/q1byzT6Cs+3LRanCLjToFi1x6U+XnbRupNcZfbsAxe+s+cG+4hs+8"
   }
 }
