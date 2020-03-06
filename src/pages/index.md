@@ -28,8 +28,8 @@ by providing simple, well documented, and self contained modules,
 
 it is intended for organizational structures focused around small teams
 working in [programmer anarchy](https://www.youtube.com/watch?v=tIxHmsWCd7g),
-where every person / team is responsible for his or her own slice of the pie,
-with minimal oversight and minimal organizational overhead.
+where every person and every team is responsible for their own slice of the pie,
+with minimal oversight and organizational overhead.
 
 some call it agile.
 
@@ -50,6 +50,9 @@ mapping individual respons**A**bilities to a natural hierarchy of competency.
 by creating html, css and javascript files,
 @magic makes sure that your pages load as quickly as possible,
 and a well designed app will stay usable without javascript.
+
+if javascript is enabled,
+the client will automagically enhance itself with javascript only functionality.
 
 ### minimal dependencies
 
