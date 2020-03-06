@@ -11,25 +11,18 @@ this is also called a [jamstack](https://jamstack.org/), javascript, apis and ma
 less than 15kb of html + css + javascript boilerplate means @magic is minimal,
 and the module based approach means that it is also easily extendable and customizable.
 
-by creating html, css and javascript files,
-@magic makes sure that your pages load as quickly as possible,
-and your app will stay usable without javascript.
-
-@magic has one client side dependency (spanning about 500 lines of code),
-[jorge bucaran](https://github.com/jorgebucaran)'s excellent
-[hyperapp](https://hyperapp.dev) library,
-which provides the foundational state machine that @magic is built upon.
-
 <GitBadges>magic/core</GitBadges>
 
 ## philosophy
+
+### simplicity
 
 @magic makes it easy to stitch any kind of webapp together.
 
 by providing simple, well documented, and self contained modules,
 @magic enables you to create complex interfaces with minimal cognitive overhead.
 
-## audience
+### audience
 
 @magic will work in any team that has one or more developers / content creators / editors.
 
@@ -52,9 +45,23 @@ the developer (or editor) creates a new bundle and pushes the changes to the pag
 this allows every team member to spend time with the things they are good at,
 mapping individual respons**A**bilities to a natural hierarchy of competency.
 
-## privacy
+### jsomorphic
+
+by creating html, css and javascript files,
+@magic makes sure that your pages load as quickly as possible,
+and a well designed app will stay usable without javascript.
+
+### minimal dependencies
+
+@magic has one external production dependency (spanning about 500 lines of code),
+[jorge bucaran](https://github.com/jorgebucaran)'s excellent
+[hyperapp](https://hyperapp.dev) library,
+which provides the foundational state machine that @magic is built upon.
+
+### privacy
 
 @magic does not spy on it's users.
+
 in addition to being legally compliant to the european privacy laws,
 we will always aim to do the ethical and right thing for all users of the web.
 
