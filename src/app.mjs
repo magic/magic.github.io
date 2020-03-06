@@ -14,8 +14,8 @@ export const state = {
     description: 'jamstack generator',
     content: 'automagically generate and publish "jsomorphic" webapps.',
     menu: [
-      { to: '/#about', text: 'about' },
-      { to: '/getting-started/', text: 'usage' },
+      { to: '/getting-started/', text: 'getting started' },
+      { to: '/why/', text: 'why magic?' },
       { to: '/organizations/', text: 'organizations' },
     ],
   },
