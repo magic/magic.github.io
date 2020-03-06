@@ -14,7 +14,7 @@ git clone https://github.com/magic-examples/minimal
 cd minimal
 npm install
 npm run dev
-// goto localhost:2323
+// goto http://localhost:2323
 ```
 
 [minimal github](https://github.com/magic-examples/minimal)
@@ -28,7 +28,7 @@ git clone https://github.com/magic-examples/example
 cd example
 npm install
 npm run dev
-// goto localhost:2323
+// goto http://localhost:2323
 ```
 
 [example github](https://github.com/magic-examples/example)
@@ -42,7 +42,7 @@ git clone https://github.com/magic/example-fancy
 cd example-fancy
 npm install
 npm run dev
-// goto localhost:2323
+// goto http://localhost:2323
 ```
 
 [fancy github](https://github.com/magic-examples/fancy)
