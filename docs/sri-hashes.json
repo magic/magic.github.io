@@ -1,18 +1,18 @@
 {
-  "css": "sha384-WOgf39LXujf4RRvPw1ahgBgxa5OGB8/I9i+ARt+vP7oZikqzm3nANO+gL2XS0A5X",
-  "js": "sha384-R2975zNAtxWY2msdFamSoPGGr7FAiPKtDIHTRJWeZieHgvAfdENeYnQKUNuZHQmj",
+  "css": "sha384-JJtWAAtnQFpxJrxnyib6oZ7ZIU7x+6/nrSoDGB8q9c6YtqBsxAknkZQQgBZnhPIl",
+  "js": "sha384-iHKOU1gggGURd13zmpK1TxQhHsa+3UlbsL6F9SynHz+j2desEYDuaNdNS8MZ6yrX",
   "pages": {
-    "/": "sha384-BcVAol9ZrJSfQxMVwH1ljcruCvgrpKBt4qYbR/esT4sdWF0qAEJ5u1mBu9TL7pGk",
-    "/404/": "sha384-Q2jext+jo4qzbIpZjEKkN80OBqm6n7NlD3H+NTl+rYyfQ0ujTUn1VQnpj/LrVMqy",
-    "/canary/": "sha384-jN9Cy4v0mifCBthiPSRtTLEgHky3X+5OkuQDeSLzpiZa2/VwsZYPh19dDKpMKspm",
-    "/getting-started/": "sha384-i1Up2M/CXt97XuQgNiOCBTW4HtNy11fgznw5Z/hG3PQ4OD76HhU01zaTuJoTRWkd",
-    "/organizations/": "sha384-FUJ942uX7mT5OswdwP6//MzhTV6RP61dedoHIMLIAoDXqb0VmU95JIbsKExfyLRd",
-    "/privacy/": "sha384-+wPZAjdnQNk/5LZ4FxzXmthF2ZanEKzoIchu7ajmZVN4svuOYX91fsaJPzB/2r2x",
-    "/why/": "sha384-it2nd3cs+M8amVMFCf1mGibSjD50rT0oQBNg0JWJn8OheP8kh6n5cJA0/edzV85v"
+    "/": "sha384-7B7+b3R+BNoAYx/5eEJVqJZDROtmZxRJv/5+buyBYRvSJoPVrKMzBClBmkOel7c2",
+    "/404/": "sha384-XDrIziRze4/3l72bjXlc6UBPgkS4mFQ2Mgr08IOErvv4pN4uh19Trcj63TebH56K",
+    "/canary/": "sha384-cM1Z64AfFPuSoJQsC3LqJsQv4fLGSZUoR4DxFbXdx4S7tZ/adIdRiMxUYHLjkioF",
+    "/getting-started/": "sha384-yJ9CFgtGDtBFyjWQ5LIXYLOYGCsyRgTkXU7mFfGwNbLTqq2hB1DO5L6xJdJPKbFf",
+    "/organizations/": "sha384-lfqxDZ03moeQWocijsl6arMf5rrWGbq+qnOrMItvQsxpaUv2yk3s5gz2K7G9FJ7j",
+    "/privacy/": "sha384-qAR97RS9m6yDpUVrspr22aJ3qMBEmXn8IvPMDw40cUzU9gTypuM/m/oOcDAaV81r",
+    "/why/": "sha384-6FYi20dWRnRCc1iDHCiGatnNoq+9dlhe8/aPnWXY4rf3HX8IeVGNi3tZos7285y4"
   },
   "static": {
     "/favicon.ico": "sha384-1R1jobwl33CzlNXvXlmwAN09ZyjqOL5JXK3wYUakQ15FRlEw+rJu7gPpSUUXkGBR",
     "/robots.txt": "sha384-hz7pfxRM2lGi6/NsHB3jBZqd0O3HfyuMLLWL7qBMXm2oV4irwRnu8LwfNpbrn44M",
-    "/sitemap.xml": "sha384-UBBDTi54Jd/q1byzT6Cs+3LRanCLjToFi1x6U+XnbRupNcZfbsAxe+s+cG+4hs+8"
+    "/sitemap.xml": "sha384-X0hjeMsK5VUEtnAxictWC/tEGHtOYi/1iuEXeFWbMIBYdNV4imMCFftvgfJLJ+Xx"
   }
 }
