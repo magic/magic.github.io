@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "author": "Wizards & Witches",
-  "description": "@magic org github page. generate static pages and serverless lambdas. ~5kb client boilerplate.",
+  "description": "@magic org github page. generate static pages and serverless lambdas. ~15kb html + css + js boilerplate.",
   "license": "AGPL-3.0",
   "homepage": "https://magic.github.io",
   "engines": {
