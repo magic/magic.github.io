@@ -1,17 +1,13 @@
 {
-  "css": "sha384-JJtWAAtnQFpxJrxnyib6oZ7ZIU7x+6/nrSoDGB8q9c6YtqBsxAknkZQQgBZnhPIl",
-  "js": "sha384-RA7CZyVUaHF0qRS/pERg0GTv6SBeJWLqEdeAfHNC5EIjMe7YlUhdFO8gAKm/TkNk",
-  "pages": {
-    "/": "sha384-uoAmCMZ0XSd5A3rdAr8wtc2py05Y1ySk92AjEz702KHSBmJug6Ws/c2++WDs2vFv",
-    "/404/": "sha384-qcy2vgEVgKu1OFY034AEs3PyLfIrYOWsdxvynY0Vqwsw4tL0XwzVB+wLHN7ds8/+",
-    "/canary/": "sha384-tYQ2FSQZPqkzoVR1z3IUMFOEiRKsuky2wzhp8NUuf8AvaKVfWEfsojn+e3hXPbCi",
-    "/getting-started/": "sha384-HmgYGEiCOPbGnM1nITF/z7dg11WhEq6CzTj1KuNhLPCzsRqOj9ZIL3j00A1fzVO3",
-    "/organizations/": "sha384-lKwhMA4qN7I16hISUgg2J3k3ybYp/dIpJ3loGJSFk1XPfHZ4Dm9HQhkL8ft45z0H",
-    "/privacy/": "sha384-xBQyN3X1+tvcfx1zh/OkP7tChEzEl4Zkuy1RS9xfMi4WZhFJsWywU0jLKif/lzFT",
-    "/why/": "sha384-OBiAgA8P7b6QliJM66zZJxUCM6zYKCAHKm9sBx6XW0BauK/3JHHHhQ5F7g2m+OGa"
-  },
-  "static": {
-    "/robots.txt": "sha384-hz7pfxRM2lGi6/NsHB3jBZqd0O3HfyuMLLWL7qBMXm2oV4irwRnu8LwfNpbrn44M",
-    "/sitemap.xml": "sha384-kBTeIcBNBVhComU8T+8b3HJgOicbP94ZJMorWtkQ9R0RgV9xF01s6SEVEEhB2t1m"
-  }
+  "/magic.css": "sha384-o+Z3q/pU0PCB/4OJ5zJjTw7oykXzHxwtBY8LG3vSPs0Ec9x/IZeIE6p6ibrJp6+f",
+  "/magic.js": "sha384-CrCJLwNZ14D4cCsRRNuQU72LVr1UQoxGn6h3i7aFA01YoE2iF7BdawKonbWGUNdp",
+  "/": "sha384-hn6MaoLd73/puz9nMXscY1axAV1xL2aMCC81+i47WRo7iuF7ubArLaCPXWHjAmz0",
+  "/404/": "sha384-xBVRiYuOYoeSMkODyTpbRtRQpJ+1yANZdQFsNpGwVpV8fWSTHh1dLWh2iwrBrFaR",
+  "/canary/": "sha384-70a6cNk2v6fLwgzGYuCVipb0MaH7tZZzpz8XHVKw888oEinyZra/VYN7VB1q6mZW",
+  "/getting-started/": "sha384-wvqaxPUy9d7Svgh/V2pDkTY9tQ8g0bOyJcJuV685EJ8JZ4c/zWtjt1LEhogkXHD1",
+  "/organizations/": "sha384-f+oLTpN+xpL7vvpAQLv6eWT4QaZZEmUHmrQn/SoHWX6a3TPfkcyFAjhmoasaFP84",
+  "/privacy/": "sha384-bRVAiTfR57TZhqThThn90D89LTLh+SqYyakcKeWFVkm1On0PmKgjm8OJrP3wpMI2",
+  "/why/": "sha384-SmFPSrxuKptzOK3qnn9JhUUYaR+5HlChwfCt3nhfc7a2zTc2ZEAKmyMK+l1185MN",
+  "/robots.txt": "sha384-hz7pfxRM2lGi6/NsHB3jBZqd0O3HfyuMLLWL7qBMXm2oV4irwRnu8LwfNpbrn44M",
+  "/sitemap.xml": "sha384-iwR+qRPwomKFL3AacAWM7HkU0F8xFQUmDSJ9x3r0xzNXyet0zFeT9utIegsCCRCe"
 }
