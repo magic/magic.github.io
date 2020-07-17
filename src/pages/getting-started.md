@@ -1,3 +1,11 @@
+---
+@state {
+  "title": "@magic - getting started"
+}
+---
+
+<Hero state></Hero>
+
 <div>
 
 ## starting the ritual

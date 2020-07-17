@@ -1,8 +1,10 @@
 ---
 @state {
-  "title": "@webboot - privacy policy"
+  "title": "@magic - privacy policy"
 }
 ---
+
+<Hero state></Hero>
 
 <div>
 

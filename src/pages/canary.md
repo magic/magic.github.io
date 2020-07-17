@@ -4,6 +4,8 @@
 }
 ---
 
+<Hero state></Hero>
+
 <div>
 
 <Bird></Bird>

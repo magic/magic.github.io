@@ -1,3 +1,11 @@
+---
+@state {
+  "title": "@magic - git organizations"
+}
+---
+
+<Hero state></Hero>
+
 <div>
 
 ## organizations

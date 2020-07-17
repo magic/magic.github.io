@@ -1,3 +1,11 @@
+---
+@state {
+  "title": "@magic - why magic?"
+}
+---
+
+<Hero state></Hero>
+
 <div>
 
 # why magic?
