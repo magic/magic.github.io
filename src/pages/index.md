@@ -11,6 +11,9 @@ this is also called a [jamstack](https://jamstack.org/), javascript, apis and ma
 less than 15kb of html + css + javascript boilerplate means @magic is minimal,
 and the module based approach means that it is also easily extendable and customizable.
 
+to see how to initiate the magic, 
+simply visit the [getting started](/getting-started/) page.
+
 <GitBadges>@magic/core</GitBadges>
 
 ## philosophy
