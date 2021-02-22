@@ -45,10 +45,10 @@ npm run dev
 
 ### project
 
-using [@magic-themes/project](https://github.com/magic-themes/project),
+using [@magic-themes/project](https://github.com/magic-themes/project/),
 a good starter template for any project or company representation page.
 
-* [github](https://github.com/magic-examples/project)
+* [github](https://github.com/magic-examples/project/)
 * [demo](https://magic-examples.github.io/project/)
 
 ```

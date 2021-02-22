@@ -34,7 +34,7 @@ and it's easy to
 
 @magic publishes to
 [github](https://github.com)
-[gitlab](https://gitlab.com)
+[gitlab](https://about.gitlab.com)
 and any other git-pages enabled hosting service.
 
 ### serverless / faas

@@ -61,7 +61,7 @@ the client will automagically enhance itself with javascript only functionality.
 
 @magic has one external production dependency (spanning about 500 lines of code),
 [jorge bucaran](https://github.com/jorgebucaran)'s excellent
-[hyperapp](https://hyperapp.dev) library,
+[hyperapp](https://github.com/jorgebucaran/hyperapp/) library,
 which provides the foundational state machine that @magic is built upon.
 
 ### privacy
